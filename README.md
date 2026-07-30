@@ -17,7 +17,7 @@ An end-to-end AI-powered skincare recommendation system that detects acne from f
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - FastAPI
@@ -124,11 +124,10 @@ uvicorn main:app --reload
 
 Add screenshots of:
 
-- Home Page
-- Acne Detection
-- AI Chatbot
-- Product Recommendation
-- Login Page
+- ![Home Page](Screenshots/homepage.png)
+- ![Acne Detection](Screenshots/acne_detection.png)
+- ![Product Recommendation](Screenshots/product_recommendation.png)
+- ![Login Page](Screenshots/loginpage.png)
 
 ---
 
@@ -159,6 +158,6 @@ Add screenshots of:
 
 ---
 
-## 📄 License
+##  License
 
 This project is intended for educational and portfolio purposes.
