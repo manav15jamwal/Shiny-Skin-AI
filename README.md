@@ -122,12 +122,15 @@ uvicorn main:app --reload
 
 ## Screenshots
 
-Add screenshots of:
 
+- Home Page:
 - ![Home Page](Screenshots/homepage.png)
-- ![Acne Detection](Screenshots/acne_detection.png)
-- ![Product Recommendation](Screenshots/product_recommendation.png)
+- Login Page:
 - ![Login Page](Screenshots/loginpage.png)
+- Acne Detection:
+- ![Acne Detection](Screenshots/acne_detection.png)
+- Product Recommendation:
+- ![Product Recommendation](Screenshots/product_recommendation.png)
 
 ---
 
